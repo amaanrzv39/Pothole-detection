@@ -41,6 +41,8 @@ python main.py --source <path_to_image_or_video> --conf <confidence_threshold>
 
 ![Unknown-5](https://github.com/user-attachments/assets/7a41c9b6-8ec4-4fc2-83e4-54967247268f)
 
+## Contributing
 Contributions are welcome! If you have ideas or encounter issues, feel free to open a pull request or an issue.
 
+## License
 This project is licensed under the MIT License.
