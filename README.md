@@ -1,4 +1,7 @@
 ## Pothole Detection
+https://github.com/user-attachments/assets/995db48c-e356-4e9e-8e27-19bd0adf4279
+
+
 This project uses a YOLOv8 model to detect potholes in images and videos.
 
 ## Project Structure
@@ -39,6 +42,14 @@ python main.py --source <path_to_image_or_video> --conf <confidence_threshold>
 ![Unknown-3](https://github.com/user-attachments/assets/48012440-db20-4852-b34b-a7a83caa92b3)
 
 ![Unknown-5](https://github.com/user-attachments/assets/7a41c9b6-8ec4-4fc2-83e4-54967247268f)
+
+## Results on sample videos
+https://youtube.com/shorts/2Gc_kqZvPn4?feature=share
+
+https://www.youtube.com/watch?v=ImvIXTIo9I4
+
+https://www.youtube.com/watch?v=9pNrrWmitno
+
 
 ## Contributing
 Contributions are welcome! If you have ideas or encounter issues, feel free to open a pull request or an issue.
