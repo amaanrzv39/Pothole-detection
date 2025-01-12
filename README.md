@@ -1,7 +1,6 @@
-## Pothole Detection
 https://github.com/user-attachments/assets/995db48c-e356-4e9e-8e27-19bd0adf4279
 
-
+## Pothole Detection
 This project uses a YOLOv8 model to detect potholes in images and videos.
 
 ## Project Structure
