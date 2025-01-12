@@ -123,6 +123,3 @@ cython_debug/
 
 # VS Code
 .vscode/
-
-# Results
-results/
