@@ -2,7 +2,6 @@
 This project uses a YOLOv8 model to detect potholes in images and videos.
 
 ## Project Structure
-results = model.predict(source="path/to/image.jpg", save=True, conf=0.25)
 ```bash
 Pothole-detection/
 ├── artifacts/             # Sample videos and images to test
